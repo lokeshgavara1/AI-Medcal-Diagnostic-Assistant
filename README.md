@@ -1,5 +1,5 @@
 
-# 🧠 MedicalIntelligence
+# 🧠 AI-Medical Diagnostic Assistance Intelligence
 
 **MedicalIntelligence** is a web-based platform designed to assist in medical image analysis, potentially powered by AI/ML models. It provides a user-friendly interface for uploading and visualizing medical images such as chest X-rays.
 
